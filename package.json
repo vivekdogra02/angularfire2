@@ -28,8 +28,8 @@
   "homepage": "https://github.com/angular/angularfire2#readme",
   "dependencies": {
     "@angular/common": "^4.0.0",
-    "@angular/compiler": "^4.0.0",
-    "@angular/core": "^4.0.0",
+    "@angular/compiler": "^19.2.18",
+    "@angular/core": "^19.2.18",
     "@angular/platform-browser": "^4.0.0",
     "@angular/platform-browser-dynamic": "^4.0.0",
     "firebase": "^4.0.0",
